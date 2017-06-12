@@ -17,6 +17,12 @@
 #
 #
 #
+# based on:
+# https://stackoverflow.com/questions/28749480/insert-multiple-images-in-a-single-pdf-according-to-image-coordinates-python
+# and 
+# https://www.reportlab.com/docs/reportlab-userguide.pdf
+#
+#
 #
 # Dependencies beyond the mostly standard libraries/modules:
 # ReportLab
