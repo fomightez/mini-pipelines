@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# sheperds_many_lists_thru_identify_duplicates_in_a_list_and_sys_name_to_std.py by Wayne Decatur
+# shepherds_many_lists_thru_identify_duplicates_in_a_list_and_sys_name_to_std.py by Wayne Decatur
 # ver 0.1
 #
 #*******************************************************************************
@@ -10,7 +10,7 @@
 # want to  find all instances of items in the lists that occur more than once.
 # This script will also add the standard gene names for each gene in the list
 # of those appearing more than once that gets made as output. If you don't need
-# that you simply use `sheperds_many_lists_thru_identify_duplicates_in_a_list.py`.
+# that you simply use `shepherds_many_lists_thru_identify_duplicates_in_a_list.py`.
 # It needs a special version of the file
 # `genes_in_list_with_SGD_Systematic_Name_to_standard_name.py` that has been
 # edited to produce as output the same file name it started with as input. (
@@ -39,7 +39,7 @@
 # Example,
 # Enter on the command line of your terminal, the line
 #-----------------------------------
-# python sheperds_many_lists_thru_identify_duplicates_in_a_list_and_sys_name_to_std.py
+# python shepherds_many_lists_thru_identify_duplicates_in_a_list_and_sys_name_to_std.py
 #-----------------------------------
 #
 #
@@ -226,7 +226,7 @@ def combinations(n, list, combos=[]):
 
 #*******************************************************************************
 ###-----------------for parsing command line arguments-----------------------###
-parser = argparse.ArgumentParser(prog='sheperds_all_list_combinations_thru_find_overlap_in_list.py',description="sheperds_all_list_combinations_thru_find_overlap_in_list.py \
+parser = argparse.ArgumentParser(prog='shepherds_all_list_combinations_thru_find_overlap_in_list.py',description="shepherds_all_list_combinations_thru_find_overlap_in_list.py \
     blah blah blah \
     **** Script by Wayne Decatur   \
     (fomightez @ github) ***")
