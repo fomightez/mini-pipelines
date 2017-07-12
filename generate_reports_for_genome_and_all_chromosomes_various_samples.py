@@ -12,7 +12,7 @@
 #
 # PURPOSE: Combines images in a report for different samples with plots for
 # genome and individual chromosomes. Meant to work with output from script
-# `sheperds_chr_thru_plot_expression_across_chromosomes.py`
+# `shepherds_chr_thru_plot_expression_across_chromosomes.py`
 #
 #
 #
