@@ -34,4 +34,7 @@ As written, many of these rely on the `EasyProcess` module that is layered on th
   
  * generate_reports_for_genome_and_all_chromosomes_various_samples.py  
   Uses the output from the script, shepherds_chr_thru_plot_expression_across_chromosomes.py, to make a summary report as a pdf. I run this script on [PythonAnywhere](http://www.pythonanywhere.com), where they have the `ReportLab` module installed under Python 2.7.
+  
+ * shepherds_read_starts_at_start_of_origins_thru_to_plotting.py
+  TBD
 
