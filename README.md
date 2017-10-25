@@ -36,5 +36,5 @@ As written, many of these rely on the `EasyProcess` module that is layered on th
   Uses the output from the script, shepherds_chr_thru_plot_expression_across_chromosomes.py, to make a summary report as a pdf. I run this script on [PythonAnywhere](http://www.pythonanywhere.com), where they have the `ReportLab` module installed under Python 2.7.
   
  * shepherds_read_starts_at_start_of_origins_thru_to_plotting.py  
-  **TBD** Utilizes the `--export_data` option to run `plot_coverage_and_starts.py` in an automated manner and plot the starts in a subregion of the data using the script `plot_stacked_bar_plots_with_fit.py`. The associated scriot `plot_stacked_bar_plots_with_fit.py` is found [here](https://github.com/fomightez/general_scripted_plotting), as it is general and not specific to read data.
+  **TBD** Utilizes the `--export_data` option to run `plot_coverage_and_starts.py` in an automated manner and plot the starts in a subregion of the data using the script `plot_panel_bar_plots_with_fit.py`. The associated scriot `plot_panel_bar_plots_with_fit.py` is found [here](https://github.com/fomightez/general_scripted_plotting), as it is general and not specific to read data.
 
