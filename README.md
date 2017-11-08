@@ -38,3 +38,9 @@ As written, many of these rely on the `EasyProcess` module that is layered on th
  * shepherds_read_starts_at_start_of_origins_thru_to_plotting.py  
   **TBD** Utilizes the `--export_data` option to run `plot_coverage_and_starts.py` in an automated manner and plot the starts in a subregion of the data using the script `plot_panel_bar_plots_with_fit.py`. The associated scriot `plot_panel_bar_plots_with_fit.py` is found [here](https://github.com/fomightez/general_scripted_plotting), as it is general and not specific to read data.
 
+
+
+Tangentially Related
+--------------------
+
+'REAL' pipelining, see [Luigi](https://github.com/spotify/luigi)- Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more. Looks like it is what Spotify uses.
