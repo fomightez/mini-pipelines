@@ -36,7 +36,10 @@ As written, many of these rely on the `EasyProcess` module that is layered on th
   Uses the output from the script, shepherds_chr_thru_plot_expression_across_chromosomes.py, to make a summary report as a pdf. I run this script on [PythonAnywhere](http://www.pythonanywhere.com), where they have the `ReportLab` module installed under Python 2.7.
   
  * shepherds_read_starts_at_start_of_origins_thru_to_plotting.py  
-  **TBD** Utilizes the `--export_data` option to run `plot_coverage_and_starts.py` in an automated manner and plot the starts in a subregion of the data using the script `plot_panel_bar_plots_with_fit.py`. The associated scriot `plot_panel_bar_plots_with_fit.py` is found [here](https://github.com/fomightez/general_scripted_plotting), as it is general and not specific to read data.
+  **TBD** Utilizes the `--export_data` option to run `plot_coverage_and_starts.py` in an automated manner and plot the starts in a subregion of the data using the script `plot_panel_bar_plots_with_fit.py`. The associated script `plot_panel_bar_plots_with_fit.py` is found [here](https://github.com/fomightez/general_scripted_plotting), as it is general and not specific to read data.
+  
+  * extract_data_on_line_using_word_listONhardcodedFILESminiPIPELINE.py  
+    Adaptation of [`extract_data_on_line_using_word_list.py` from my text-mining repo](https://github.com/fomightez/text_mining) to use two different word lists to extract two sets of data out of each of several data files. Everything is hard-coded into the script as a quicker route to getting the data without regard to generalizing the script.(**Of course, that would be useful if I had time or more need for this later**; for now it seems as a good guide to how that can be done.) The choice to hard-code the file paths in instead of providing them on the command line as a call also obviated the need to escape the spaces in the file paths since I had copied them from Finder on the Mac and had included those.
 
 
 
