@@ -261,7 +261,7 @@ for each_list_file in gene_list_files:
                             lines_kept_list.append(line)
                         # expanded from Lauritz V. Thaulow's answer at http://stackoverflow.com/questions/6531482/how-to-check-if-a-string-contains-an-element-from-a-list-in-python
                     else:
-                        if any(word.lower() in line.lower().split() for word in list_of_words):
+                        if any(word.lower() in line.lower().split() for word in list_of_words): #see https://github.com/fomightez/mini-pipelines/blob/master/README.md if you need to use the script with DESeq2 output.
                             lines_kept_list.append(line)
 
 
