@@ -6,7 +6,7 @@
 # USES Python 2.7 but should be convertable via 2to3, see https://docs.python.org/3.0/library/2to3.html
 #
 # PURPOSE: ADAPTED FROM extract_data_on_line_using_word_list.py  to take two lists of gene names, combine them, and get data from 10 hardcoded files
-# Hardcoding of the file nameas within the script, instead of running them from
+# Hardcoding of the file names within the script, instead of running them from
 # the shell was chosen so I didn't have to escape the file names with spaces.
 #
 #
