@@ -7,7 +7,7 @@ As written, many of these rely on the `EasyProcess` module that is layered on th
   
 &ast;In naming this repository, I based it on the responses of stevegt and Alastair Kerr as posted [here](https://www.biostars.org/p/17696/).
 
-**Update: in some ways, recent work in Jupyter notebooks gluing together different scripts is reminiscent of some of what is accomplished in parts of these mini-pipelines, particularly mixing shell and python tasks, and is a useful alternative.**
+**Update: in some ways, recent work in Jupyter notebooks gluing together different scripts is reminiscent of some of what is accomplished in parts of these mini-pipelines, particularly mixing shell and python tasks, and is a useful alternative, see [here](https://github.com/fomightez/sequencework) and [here](https://github.com/fomightez/structureework) for links to just some nucleic acid analyses and structure/function analyses examples, respectively.**
 
 ---
 
