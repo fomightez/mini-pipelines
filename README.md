@@ -49,7 +49,11 @@ Tangentially Related
 
 Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash scripts, some REAL pipeline options I have seen:
 
- * 'REAL' pipelining, for when I outgrow shell scripts and using subprocess, see [Luigi](https://github.com/spotify/luigi)- Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more. Looks like it is what Spotify uses.
- 
+ * [snakemake](https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md) - even makes schematic directed acyclic graphs (DAG) of your workflow, see [here](https://snakemake.readthedocs.io/en/stable/tutorial/basics.html)
+
  * Bioinformatics pipelineing option - NExtFlow and Common Workflow Language. See [here](https://twitter.com/pathogenomenick/status/931444079992373248) "This GUI is for connecting command line tools into workflows. It generates CWL workflow descriptions that are human readable, yes." and [here](https://twitter.com/biocrusoe/status/931447928513851394) and [here](https://twitter.com/biocrusoe/status/888703760679272450) for help and discussion.
+ 
+ * see [here](http://blog.booleanbiotech.com/nextflow-snakemake-reflow.html) for some comparison in 2019 of several of the above items.
+ 
+  * 'REAL' pipelining, for when I outgrow shell scripts and using subprocess, see [Luigi](https://github.com/spotify/luigi)- Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more. Looks like it is what Spotify uses.
  
