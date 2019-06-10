@@ -47,7 +47,7 @@ As written, many of these rely on the `EasyProcess` module that is layered on th
 Tangentially Related
 --------------------
 
-Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash scripts, some REAL pipeline options I have seen:
+Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash scripts, some REAL pipeline options I have seen for when I outgrow shell scripts and using subprocess/sh/pybash:
 
  * [snakemake](https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md) - even makes schematic directed acyclic graphs (DAG) of your workflow, see [here](https://snakemake.readthedocs.io/en/stable/tutorial/basics.html)
 
@@ -55,5 +55,8 @@ Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash sc
  
  * see [here](http://blog.booleanbiotech.com/nextflow-snakemake-reflow.html) for some comparison in 2019 of several of the above items.
  
-  * 'REAL' pipelining, for when I outgrow shell scripts and using subprocess, see [Luigi](https://github.com/spotify/luigi)- Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more. Looks like it is what Spotify uses.
+ * [Luigi](https://github.com/spotify/luigi)- Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more. Looks like it is what Spotify uses.
+
+* [Tibanna: open-source software for automated execution of bioinformatics pipelines on Amazon Web Services (AWS)](https://github.com/4dn-dcic/tibanna), article about it [here](https://www.ncbi.nlm.nih.gov/pubmed/31077294)
+  
  
