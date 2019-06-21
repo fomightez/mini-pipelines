@@ -55,7 +55,15 @@ Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash sc
  
  * [FlowCraft](https://flowcraft.readthedocs.io/en/latest/getting_started/overview.html) is an assembler of pipelines written in nextflow for analyses of genomic data. The premisse is simple: `Software are container blocks → Build your lego-like pipeline → Execute it (almost) anywhere.`
  
+ * The Broad Institute's [Workflow Description Language( WDL) User Guide](https://software.broadinstitute.org/wdl/documentation/)
+ 
  * see [here](http://blog.booleanbiotech.com/nextflow-snakemake-reflow.html) for some comparison in 2019 of several of the above items.
+ 
+ * Carpentries page on [Automation and Make](https://swcarpentry.github.io/make-novice/)
+ >"Make is used to compile source code into executable programs or libraries, but Make can also be used to:  
+run analysis scripts on raw data files to get data files that summarize the raw data;  
+run visualization scripts on data files to produce plots; and to  
+parse and combine text files and plots to create papers."
  
  * [Luigi](https://github.com/spotify/luigi)- Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more. Looks like it is what Spotify uses.
 
