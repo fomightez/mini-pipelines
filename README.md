@@ -69,4 +69,11 @@ parse and combine text files and plots to create papers."
 
 * [Tibanna: open-source software for automated execution of bioinformatics pipelines on Amazon Web Services (AWS)](https://github.com/4dn-dcic/tibanna), article about it [here](https://www.ncbi.nlm.nih.gov/pubmed/31077294)
   
+* [snakepipes](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz436/5499080): facilitating flexible, scalable and integrative epigenomic analysis   (July 2019)
+code https://github.com/maxplanck-ie/snakepipes  
+docs https://snakepipes.readthedocs.io/en/latest/ 
+>"Due to the rapidly increasing scale and diversity of epigenomic data, modular and scalable analysis workflows are of wide interest. Here we present snakePipes, a workflow package for processing and downstream analysis of data from common epigenomic assays: ChIP-seq, RNA-seq, Bisulfite-seq, ATAC-seq, Hi-C and single-cell RNA-seq. "
+
+* [Bioinformatics Pipeline using JUDI: Just Do It](https://www.biorxiv.org/content/10.1101/611764v1) (July 2019)
+>"We developed JUDI on top of a Python based WMS, DoIt, for a systematic handling of pipeline parameter settings based on the principles of DBMS that simplifies plug-and-play scripting. The effectiveness of JUDI is demonstrated in a pipeline for analyzing large scale HT-SELEX data for transcription factor and DNA binding where JUDI reduces scripting by a factor of five.
  
