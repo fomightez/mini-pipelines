@@ -9,6 +9,9 @@ As written, many of these rely on the `EasyProcess` module that is layered on th
 
 **Update: in some ways, recent work in Jupyter notebooks gluing together different scripts is reminiscent of some of what is accomplished in parts of these mini-pipelines, particularly mixing shell and python tasks, and is a useful alternative, see [here](https://github.com/fomightez/sequencework) and [here](https://github.com/fomightez/structureework) for links to just some nucleic acid analyses and structure/function analyses examples, respectively.**
 
+
+**Update: Keep in mind that Python's `functools.partial()` may be useful when dealing with differing argument number needs at different points in such a pipeline, see [here](https://stackoverflow.com/a/15331967/8508004).**
+
 ---
 
 
