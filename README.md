@@ -70,6 +70,9 @@ run visualization scripts on data files to produce plots; and to
 parse and combine text files and plots to create papers."
  
  * [Luigi](https://github.com/spotify/luigi)- Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more. Looks like it is what Spotify uses.
+ 
+ * [Pypeline](https://cgarciae.github.io/pypeln/)
+ >"Pypeline is a simple yet powerful python library for creating concurrent data pipelines. Pypeline was designed to solve simple medium data tasks that require concurrency and parallelism but where using frameworks like Spark or Dask feel exaggerated or unnatural."
 
 * [Tibanna: open-source software for automated execution of bioinformatics pipelines on Amazon Web Services (AWS)](https://github.com/4dn-dcic/tibanna), article about it [here](https://www.ncbi.nlm.nih.gov/pubmed/31077294)
   
