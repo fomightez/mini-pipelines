@@ -63,7 +63,7 @@ Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash sc
  
  * see [here](http://blog.booleanbiotech.com/nextflow-snakemake-reflow.html) for some comparison in 2019 of several of the above items.
  
- * [Ploomber](https://github.com/ploomber/ploomber) - pointed out [here](https://discourse.jupyter.org/t/tool-for-notebook-workflows/3764/10) as an option for Notebook-based Workfows. "Ploomber allows you to modularize your analysis [pipelines], making your project more maintainable and easier to test. Since it integrates with Jupyter, you don't have to compromise interactivity, you can still use notebooks and build a production-ready pipeline. Tasks are not limited to notebooks, they can also be scripts or even Python functions."
+ * [Ploomber](https://github.com/ploomber/ploomber) - pointed out [here](https://discourse.jupyter.org/t/tool-for-notebook-workflows/3764/10) as an option for Notebook-based Workflows. "Ploomber allows you to modularize your analysis [pipelines], making your project more maintainable and easier to test. Since it integrates with Jupyter, you don't have to compromise interactivity, you can still use notebooks and build a production-ready pipeline. Tasks are not limited to notebooks, they can also be scripts or even Python functions."
  
  * Carpentries page on [Automation and Make](https://swcarpentry.github.io/make-novice/)
  >"Make is used to compile source code into executable programs or libraries, but Make can also be used to:  
