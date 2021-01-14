@@ -53,7 +53,7 @@ Tangentially Related
 Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash scripts, some REAL pipeline options I have seen for when I outgrow shell scripts and using subprocess/sh/pybash:
 
 * https://twitter.com/VdaGeraldine/status/1349616600098496513   January 2021
->"Impressive review, must-read for anyone getting started with #bioinformatics workflows/pipelines"
+>"Impressive review, must-read for anyone getting started with #bioinformatics workflows/pipelines"  
 >"Streamlining data-intensive biology with workflow systems. #Workflows #DataIntensive #Bioinformatics https://academic.oup.com/gigascience/article/10/1/giaa140/6092773 via  @GigaScience"
 
 
