@@ -52,6 +52,12 @@ Tangentially Related
 
 Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash scripts, some REAL pipeline options I have seen for when I outgrow shell scripts and using subprocess/sh/pybash:
 
+* https://twitter.com/VdaGeraldine/status/1349616600098496513   January 2021
+>"Impressive review, must-read for anyone getting started with #bioinformatics workflows/pipelines"
+>"Streamlining data-intensive biology with workflow systems. #Workflows #DataIntensive #Bioinformatics https://academic.oup.com/gigascience/article/10/1/giaa140/6092773 via  @GigaScience"
+
+
+
  * [snakemake](https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md) - even makes schematic directed acyclic graphs (DAG) of your workflow, see [here](https://snakemake.readthedocs.io/en/stable/tutorial/basics.html)  
  (also see [nbpipeline - Snakemake-like pipelines for Jupyter Notebooks, producing interactive pipeline reports](https://github.com/krassowski/nbpipeline))
 
