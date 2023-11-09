@@ -59,7 +59,7 @@ Approaches even more "structured" than my mini-pipelines or MAKEFILES or Bash sc
 
 
  * [snakemake](https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md) - even makes schematic directed acyclic graphs (DAG) of your workflow, see [here](https://snakemake.readthedocs.io/en/stable/tutorial/basics.html)  
- My various snakemake endeavors, making **proper pipelines/workflows** that take advatnage of a full-fledged workflow management system engine, posted on GitHub can be found by [clicking here](https://github.com/search?q=owner%3Afomightez%20snakemake&type=code).
+ My various snakemake endeavors, making **proper pipelines/workflows** that take advantage of a full-fledged workflow management system engine, posted on GitHub can be found by [clicking here](https://github.com/search?q=owner%3Afomightez%20snakemake&type=code).  
  (also see [nbpipeline - Snakemake-like pipelines for Jupyter Notebooks, producing interactive pipeline reports](https://github.com/krassowski/nbpipeline))
 
  * Bioinformatics pipelineing option - NExtFlow and Common Workflow Language. See [here](https://twitter.com/pathogenomenick/status/931444079992373248) "This GUI is for connecting command line tools into workflows. It generates CWL workflow descriptions that are human readable, yes." and [here](https://twitter.com/biocrusoe/status/931447928513851394) and [here](https://twitter.com/biocrusoe/status/888703760679272450) for help and discussion.
